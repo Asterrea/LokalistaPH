@@ -1,0 +1,33 @@
+html {
+	height:100%;
+}
+
+body{
+	margin-top: 38px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height:100%;
+}
+
+.container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse{
+	margin-left: 17px;
+}
+
+.right-inner-addon {
+    position: relative;
+}
+
+.right-inner-addon input {
+    padding-right: 30px;    
+}
+
+.right-inner-addon i {
+    position: absolute;
+    right: 0px;
+    padding: 10px 12px;
+    pointer-events: none;
+}
+
+.navbar-form.navbar-right:last-child{
+	margin-right: 0px;
+}

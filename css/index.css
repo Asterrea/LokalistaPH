@@ -1,0 +1,67 @@
+.carousel-indicators{
+	bottom: -7px;
+	left: auto;
+	right: 10px;
+	margin-left: 0px;
+	width: 20%;
+	text-align: right;
+}
+
+.carousel-control.left{
+	background-image: linear-gradient(to right,rgba(0,0,0,.2) 0,rgba(0,0,0,.0001) 100%);
+}
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev{
+	margin-left: -41px;
+}
+
+.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next{
+	margin-right: -41px;
+}
+
+.livetile-grp{;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 8%;
+	float: none;
+}
+
+.livetiles{
+	width: 99%;
+	height: 170px;
+	margin: 0 auto;
+	padding: 5px;
+	background-color: #F0F0F0;
+}
+
+
+.container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse{
+	margin-left: 17px;
+}
+
+.right-inner-addon {
+    position: relative;
+}
+
+.right-inner-addon input {
+    padding-right: 30px;    
+}
+
+.right-inner-addon i {
+    position: absolute;
+    right: 0px;
+    padding: 10px 12px;
+    pointer-events: none;
+}
+
+.navbar-form.navbar-right:last-child{
+	margin-right: 0px;
+}
+
+.col-md-1 .col-md-2 .col-md-3 .col-md-4 .col-md-5 .col-md-6 .col-md-7 .col-md-8 .col-md-9 .col-md-10 .col-md-11 .col-md-12{
+	padding: 0px;
+}
+
+.col-md-4{
+	padding: 0px;
+}
